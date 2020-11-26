@@ -142,6 +142,7 @@
     <ClCompile Include="BubbleSort.cpp" />
     <ClCompile Include="HeadAdjust.c" />
     <ClCompile Include="Insert_sort.cpp" />
+    <ClCompile Include="linked_storage.cpp" />
     <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="SequenceList.c" />
     <ClCompile Include="ShellSort.cpp" />
