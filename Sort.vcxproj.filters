@@ -36,5 +36,8 @@
     <ClCompile Include="linked_storage.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="read_write.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

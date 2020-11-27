@@ -144,6 +144,7 @@
     <ClCompile Include="Insert_sort.cpp" />
     <ClCompile Include="linked_storage.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="read_write.c" />
     <ClCompile Include="SequenceList.c" />
     <ClCompile Include="ShellSort.cpp" />
   </ItemGroup>
