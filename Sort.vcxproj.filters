@@ -39,5 +39,11 @@
     <ClCompile Include="read_write.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="GCD_LCM.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
